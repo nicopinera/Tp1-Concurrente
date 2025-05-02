@@ -1,0 +1,1016 @@
+abr 22, 2024 10:47:30 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 0
+Reservas confirmadas= 0
+Reservas Canceladas= 0
+Reservas Aprobadas= 0
+Asientos Ocupados= 0
+abr 22, 2024 10:47:30 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 0
+Reservas confirmadas= 0
+Reservas Canceladas= 1
+Reservas Aprobadas= 0
+Asientos Ocupados= 0
+abr 22, 2024 10:47:30 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 0
+Reservas confirmadas= 2
+Reservas Canceladas= 1
+Reservas Aprobadas= 0
+Asientos Ocupados= 2
+abr 22, 2024 10:47:30 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 2
+Reservas confirmadas= 2
+Reservas Canceladas= 1
+Reservas Aprobadas= 0
+Asientos Ocupados= 4
+abr 22, 2024 10:47:30 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 1
+Reservas confirmadas= 1
+Reservas Canceladas= 2
+Reservas Aprobadas= 2
+Asientos Ocupados= 4
+abr 22, 2024 10:47:31 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 1
+Reservas confirmadas= 2
+Reservas Canceladas= 2
+Reservas Aprobadas= 3
+Asientos Ocupados= 6
+abr 22, 2024 10:47:31 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 3
+Reservas confirmadas= 2
+Reservas Canceladas= 2
+Reservas Aprobadas= 3
+Asientos Ocupados= 8
+abr 22, 2024 10:47:31 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 2
+Reservas confirmadas= 2
+Reservas Canceladas= 2
+Reservas Aprobadas= 5
+Asientos Ocupados= 9
+abr 22, 2024 10:47:31 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 3
+Reservas confirmadas= 2
+Reservas Canceladas= 2
+Reservas Aprobadas= 5
+Asientos Ocupados= 11
+abr 22, 2024 10:47:31 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 2
+Reservas confirmadas= 2
+Reservas Canceladas= 2
+Reservas Aprobadas= 7
+Asientos Ocupados= 11
+abr 22, 2024 10:47:32 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 2
+Reservas confirmadas= 1
+Reservas Canceladas= 3
+Reservas Aprobadas= 9
+Asientos Ocupados= 12
+abr 22, 2024 10:47:32 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 3
+Reservas confirmadas= 1
+Reservas Canceladas= 3
+Reservas Aprobadas= 9
+Asientos Ocupados= 13
+abr 22, 2024 10:47:32 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 3
+Reservas confirmadas= 1
+Reservas Canceladas= 4
+Reservas Aprobadas= 10
+Asientos Ocupados= 14
+abr 22, 2024 10:47:32 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 2
+Reservas confirmadas= 1
+Reservas Canceladas= 5
+Reservas Aprobadas= 11
+Asientos Ocupados= 14
+abr 22, 2024 10:47:32 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 4
+Reservas confirmadas= 1
+Reservas Canceladas= 5
+Reservas Aprobadas= 11
+Asientos Ocupados= 16
+abr 22, 2024 10:47:33 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 3
+Reservas confirmadas= 1
+Reservas Canceladas= 6
+Reservas Aprobadas= 12
+Asientos Ocupados= 16
+abr 22, 2024 10:47:33 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 3
+Reservas confirmadas= 2
+Reservas Canceladas= 6
+Reservas Aprobadas= 13
+Asientos Ocupados= 18
+abr 22, 2024 10:47:33 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 4
+Reservas confirmadas= 2
+Reservas Canceladas= 6
+Reservas Aprobadas= 13
+Asientos Ocupados= 19
+abr 22, 2024 10:47:33 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 4
+Reservas confirmadas= 0
+Reservas Canceladas= 8
+Reservas Aprobadas= 15
+Asientos Ocupados= 19
+abr 22, 2024 10:47:34 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 3
+Reservas confirmadas= 2
+Reservas Canceladas= 8
+Reservas Aprobadas= 15
+Asientos Ocupados= 20
+abr 22, 2024 10:47:34 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 4
+Reservas confirmadas= 2
+Reservas Canceladas= 8
+Reservas Aprobadas= 15
+Asientos Ocupados= 21
+abr 22, 2024 10:47:34 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 4
+Reservas confirmadas= 2
+Reservas Canceladas= 8
+Reservas Aprobadas= 17
+Asientos Ocupados= 23
+abr 22, 2024 10:47:34 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 3
+Reservas confirmadas= 2
+Reservas Canceladas= 8
+Reservas Aprobadas= 19
+Asientos Ocupados= 24
+abr 22, 2024 10:47:34 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 5
+Reservas confirmadas= 2
+Reservas Canceladas= 8
+Reservas Aprobadas= 19
+Asientos Ocupados= 26
+abr 22, 2024 10:47:35 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 4
+Reservas confirmadas= 2
+Reservas Canceladas= 8
+Reservas Aprobadas= 21
+Asientos Ocupados= 27
+abr 22, 2024 10:47:35 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 4
+Reservas confirmadas= 2
+Reservas Canceladas= 8
+Reservas Aprobadas= 23
+Asientos Ocupados= 29
+abr 22, 2024 10:47:35 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 5
+Reservas confirmadas= 2
+Reservas Canceladas= 8
+Reservas Aprobadas= 23
+Asientos Ocupados= 30
+abr 22, 2024 10:47:35 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 4
+Reservas confirmadas= 0
+Reservas Canceladas= 10
+Reservas Aprobadas= 25
+Asientos Ocupados= 29
+abr 22, 2024 10:47:35 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 4
+Reservas confirmadas= 2
+Reservas Canceladas= 10
+Reservas Aprobadas= 25
+Asientos Ocupados= 31
+abr 22, 2024 10:47:36 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 6
+Reservas confirmadas= 2
+Reservas Canceladas= 10
+Reservas Aprobadas= 25
+Asientos Ocupados= 33
+abr 22, 2024 10:47:36 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 5
+Reservas confirmadas= 2
+Reservas Canceladas= 10
+Reservas Aprobadas= 27
+Asientos Ocupados= 34
+abr 22, 2024 10:47:36 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 4
+Reservas confirmadas= 2
+Reservas Canceladas= 10
+Reservas Aprobadas= 29
+Asientos Ocupados= 35
+abr 22, 2024 10:47:36 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 6
+Reservas confirmadas= 2
+Reservas Canceladas= 10
+Reservas Aprobadas= 29
+Asientos Ocupados= 37
+abr 22, 2024 10:47:36 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 5
+Reservas confirmadas= 2
+Reservas Canceladas= 10
+Reservas Aprobadas= 31
+Asientos Ocupados= 38
+abr 22, 2024 10:47:37 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 5
+Reservas confirmadas= 2
+Reservas Canceladas= 10
+Reservas Aprobadas= 33
+Asientos Ocupados= 40
+abr 22, 2024 10:47:37 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 6
+Reservas confirmadas= 2
+Reservas Canceladas= 10
+Reservas Aprobadas= 33
+Asientos Ocupados= 41
+abr 22, 2024 10:47:37 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 5
+Reservas confirmadas= 1
+Reservas Canceladas= 11
+Reservas Aprobadas= 35
+Asientos Ocupados= 41
+abr 22, 2024 10:47:37 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 5
+Reservas confirmadas= 2
+Reservas Canceladas= 11
+Reservas Aprobadas= 36
+Asientos Ocupados= 43
+abr 22, 2024 10:47:37 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 7
+Reservas confirmadas= 2
+Reservas Canceladas= 11
+Reservas Aprobadas= 36
+Asientos Ocupados= 45
+abr 22, 2024 10:47:38 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 5
+Reservas confirmadas= 2
+Reservas Canceladas= 11
+Reservas Aprobadas= 38
+Asientos Ocupados= 45
+abr 22, 2024 10:47:38 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 5
+Reservas confirmadas= 2
+Reservas Canceladas= 11
+Reservas Aprobadas= 40
+Asientos Ocupados= 47
+abr 22, 2024 10:47:38 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 6
+Reservas confirmadas= 2
+Reservas Canceladas= 11
+Reservas Aprobadas= 40
+Asientos Ocupados= 48
+abr 22, 2024 10:47:38 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 5
+Reservas confirmadas= 1
+Reservas Canceladas= 12
+Reservas Aprobadas= 42
+Asientos Ocupados= 48
+abr 22, 2024 10:47:38 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 5
+Reservas confirmadas= 1
+Reservas Canceladas= 13
+Reservas Aprobadas= 43
+Asientos Ocupados= 49
+abr 22, 2024 10:47:39 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 7
+Reservas confirmadas= 1
+Reservas Canceladas= 13
+Reservas Aprobadas= 43
+Asientos Ocupados= 51
+abr 22, 2024 10:47:39 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 6
+Reservas confirmadas= 1
+Reservas Canceladas= 14
+Reservas Aprobadas= 44
+Asientos Ocupados= 51
+abr 22, 2024 10:47:39 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 5
+Reservas confirmadas= 1
+Reservas Canceladas= 15
+Reservas Aprobadas= 45
+Asientos Ocupados= 51
+abr 22, 2024 10:47:39 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 7
+Reservas confirmadas= 1
+Reservas Canceladas= 15
+Reservas Aprobadas= 45
+Asientos Ocupados= 53
+abr 22, 2024 10:47:39 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 6
+Reservas confirmadas= 1
+Reservas Canceladas= 16
+Reservas Aprobadas= 46
+Asientos Ocupados= 53
+abr 22, 2024 10:47:40 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 6
+Reservas confirmadas= 0
+Reservas Canceladas= 18
+Reservas Aprobadas= 47
+Asientos Ocupados= 53
+abr 22, 2024 10:47:40 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 7
+Reservas confirmadas= 0
+Reservas Canceladas= 18
+Reservas Aprobadas= 47
+Asientos Ocupados= 54
+abr 22, 2024 10:47:40 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 7
+Reservas confirmadas= 2
+Reservas Canceladas= 18
+Reservas Aprobadas= 47
+Asientos Ocupados= 56
+abr 22, 2024 10:47:40 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 6
+Reservas confirmadas= 0
+Reservas Canceladas= 20
+Reservas Aprobadas= 49
+Asientos Ocupados= 55
+abr 22, 2024 10:47:40 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 8
+Reservas confirmadas= 0
+Reservas Canceladas= 20
+Reservas Aprobadas= 49
+Asientos Ocupados= 57
+abr 22, 2024 10:47:41 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 7
+Reservas confirmadas= 2
+Reservas Canceladas= 20
+Reservas Aprobadas= 49
+Asientos Ocupados= 58
+abr 22, 2024 10:47:41 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 7
+Reservas confirmadas= 1
+Reservas Canceladas= 21
+Reservas Aprobadas= 51
+Asientos Ocupados= 59
+abr 22, 2024 10:47:41 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 8
+Reservas confirmadas= 1
+Reservas Canceladas= 21
+Reservas Aprobadas= 51
+Asientos Ocupados= 60
+abr 22, 2024 10:47:41 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 7
+Reservas confirmadas= 1
+Reservas Canceladas= 22
+Reservas Aprobadas= 52
+Asientos Ocupados= 60
+abr 22, 2024 10:47:42 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 7
+Reservas confirmadas= 2
+Reservas Canceladas= 22
+Reservas Aprobadas= 53
+Asientos Ocupados= 62
+abr 22, 2024 10:47:42 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 8
+Reservas confirmadas= 2
+Reservas Canceladas= 22
+Reservas Aprobadas= 53
+Asientos Ocupados= 63
+abr 22, 2024 10:47:42 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 7
+Reservas confirmadas= 2
+Reservas Canceladas= 22
+Reservas Aprobadas= 55
+Asientos Ocupados= 64
+abr 22, 2024 10:47:42 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 7
+Reservas confirmadas= 1
+Reservas Canceladas= 23
+Reservas Aprobadas= 57
+Asientos Ocupados= 65
+abr 22, 2024 10:47:42 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 8
+Reservas confirmadas= 1
+Reservas Canceladas= 23
+Reservas Aprobadas= 57
+Asientos Ocupados= 66
+abr 22, 2024 10:47:43 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 8
+Reservas confirmadas= 2
+Reservas Canceladas= 23
+Reservas Aprobadas= 58
+Asientos Ocupados= 68
+abr 22, 2024 10:47:43 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 7
+Reservas confirmadas= 1
+Reservas Canceladas= 24
+Reservas Aprobadas= 60
+Asientos Ocupados= 68
+abr 22, 2024 10:47:43 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 9
+Reservas confirmadas= 1
+Reservas Canceladas= 24
+Reservas Aprobadas= 60
+Asientos Ocupados= 70
+abr 22, 2024 10:47:43 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 8
+Reservas confirmadas= 1
+Reservas Canceladas= 25
+Reservas Aprobadas= 61
+Asientos Ocupados= 70
+abr 22, 2024 10:47:43 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 8
+Reservas confirmadas= 2
+Reservas Canceladas= 25
+Reservas Aprobadas= 62
+Asientos Ocupados= 72
+abr 22, 2024 10:47:44 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 9
+Reservas confirmadas= 2
+Reservas Canceladas= 25
+Reservas Aprobadas= 62
+Asientos Ocupados= 73
+abr 22, 2024 10:47:44 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 9
+Reservas confirmadas= 2
+Reservas Canceladas= 25
+Reservas Aprobadas= 64
+Asientos Ocupados= 75
+abr 22, 2024 10:47:44 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 8
+Reservas confirmadas= 2
+Reservas Canceladas= 25
+Reservas Aprobadas= 66
+Asientos Ocupados= 76
+abr 22, 2024 10:47:44 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 9
+Reservas confirmadas= 2
+Reservas Canceladas= 25
+Reservas Aprobadas= 66
+Asientos Ocupados= 77
+abr 22, 2024 10:47:44 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 9
+Reservas confirmadas= 1
+Reservas Canceladas= 26
+Reservas Aprobadas= 68
+Asientos Ocupados= 78
+abr 22, 2024 10:47:45 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 8
+Reservas confirmadas= 2
+Reservas Canceladas= 26
+Reservas Aprobadas= 69
+Asientos Ocupados= 79
+abr 22, 2024 10:47:45 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 9
+Reservas confirmadas= 2
+Reservas Canceladas= 26
+Reservas Aprobadas= 69
+Asientos Ocupados= 80
+abr 22, 2024 10:47:45 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 9
+Reservas confirmadas= 2
+Reservas Canceladas= 26
+Reservas Aprobadas= 71
+Asientos Ocupados= 82
+abr 22, 2024 10:47:45 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 8
+Reservas confirmadas= 1
+Reservas Canceladas= 27
+Reservas Aprobadas= 73
+Asientos Ocupados= 82
+abr 22, 2024 10:47:45 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 8
+Reservas confirmadas= 1
+Reservas Canceladas= 28
+Reservas Aprobadas= 74
+Asientos Ocupados= 83
+abr 22, 2024 10:47:46 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 9
+Reservas confirmadas= 1
+Reservas Canceladas= 28
+Reservas Aprobadas= 74
+Asientos Ocupados= 84
+abr 22, 2024 10:47:46 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 8
+Reservas confirmadas= 2
+Reservas Canceladas= 28
+Reservas Aprobadas= 75
+Asientos Ocupados= 85
+abr 22, 2024 10:47:46 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 8
+Reservas confirmadas= 2
+Reservas Canceladas= 28
+Reservas Aprobadas= 77
+Asientos Ocupados= 87
+abr 22, 2024 10:47:46 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 9
+Reservas confirmadas= 2
+Reservas Canceladas= 28
+Reservas Aprobadas= 77
+Asientos Ocupados= 88
+abr 22, 2024 10:47:47 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 9
+Reservas confirmadas= 2
+Reservas Canceladas= 28
+Reservas Aprobadas= 79
+Asientos Ocupados= 90
+abr 22, 2024 10:47:47 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 8
+Reservas confirmadas= 1
+Reservas Canceladas= 29
+Reservas Aprobadas= 81
+Asientos Ocupados= 90
+abr 22, 2024 10:47:47 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 10
+Reservas confirmadas= 1
+Reservas Canceladas= 29
+Reservas Aprobadas= 81
+Asientos Ocupados= 92
+abr 22, 2024 10:47:47 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 9
+Reservas confirmadas= 2
+Reservas Canceladas= 29
+Reservas Aprobadas= 82
+Asientos Ocupados= 93
+abr 22, 2024 10:47:47 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 9
+Reservas confirmadas= 2
+Reservas Canceladas= 29
+Reservas Aprobadas= 84
+Asientos Ocupados= 95
+abr 22, 2024 10:47:48 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 10
+Reservas confirmadas= 2
+Reservas Canceladas= 29
+Reservas Aprobadas= 84
+Asientos Ocupados= 96
+abr 22, 2024 10:47:48 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 10
+Reservas confirmadas= 1
+Reservas Canceladas= 30
+Reservas Aprobadas= 86
+Asientos Ocupados= 97
+abr 22, 2024 10:47:48 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 9
+Reservas confirmadas= 2
+Reservas Canceladas= 30
+Reservas Aprobadas= 87
+Asientos Ocupados= 98
+abr 22, 2024 10:47:48 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 11
+Reservas confirmadas= 2
+Reservas Canceladas= 30
+Reservas Aprobadas= 87
+Asientos Ocupados= 100
+abr 22, 2024 10:47:48 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 10
+Reservas confirmadas= 1
+Reservas Canceladas= 31
+Reservas Aprobadas= 89
+Asientos Ocupados= 100
+abr 22, 2024 10:47:49 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 10
+Reservas confirmadas= 2
+Reservas Canceladas= 31
+Reservas Aprobadas= 90
+Asientos Ocupados= 102
+abr 22, 2024 10:47:49 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 11
+Reservas confirmadas= 1
+Reservas Canceladas= 32
+Reservas Aprobadas= 90
+Asientos Ocupados= 102
+abr 22, 2024 10:47:49 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 11
+Reservas confirmadas= 2
+Reservas Canceladas= 32
+Reservas Aprobadas= 91
+Asientos Ocupados= 104
+abr 22, 2024 10:47:49 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 10
+Reservas confirmadas= 2
+Reservas Canceladas= 32
+Reservas Aprobadas= 93
+Asientos Ocupados= 105
+abr 22, 2024 10:47:49 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 11
+Reservas confirmadas= 2
+Reservas Canceladas= 32
+Reservas Aprobadas= 93
+Asientos Ocupados= 106
+abr 22, 2024 10:47:50 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 11
+Reservas confirmadas= 2
+Reservas Canceladas= 32
+Reservas Aprobadas= 95
+Asientos Ocupados= 108
+abr 22, 2024 10:47:50 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 10
+Reservas confirmadas= 2
+Reservas Canceladas= 32
+Reservas Aprobadas= 97
+Asientos Ocupados= 109
+abr 22, 2024 10:47:50 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 11
+Reservas confirmadas= 2
+Reservas Canceladas= 32
+Reservas Aprobadas= 97
+Asientos Ocupados= 110
+abr 22, 2024 10:47:50 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 10
+Reservas confirmadas= 0
+Reservas Canceladas= 34
+Reservas Aprobadas= 99
+Asientos Ocupados= 110
+abr 22, 2024 10:47:50 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 10
+Reservas confirmadas= 2
+Reservas Canceladas= 34
+Reservas Aprobadas= 99
+Asientos Ocupados= 111
+abr 22, 2024 10:47:51 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 11
+Reservas confirmadas= 2
+Reservas Canceladas= 34
+Reservas Aprobadas= 99
+Asientos Ocupados= 112
+abr 22, 2024 10:47:51 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 11
+Reservas confirmadas= 2
+Reservas Canceladas= 34
+Reservas Aprobadas= 101
+Asientos Ocupados= 114
+abr 22, 2024 10:47:51 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 10
+Reservas confirmadas= 1
+Reservas Canceladas= 35
+Reservas Aprobadas= 103
+Asientos Ocupados= 114
+abr 22, 2024 10:47:51 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 12
+Reservas confirmadas= 1
+Reservas Canceladas= 35
+Reservas Aprobadas= 103
+Asientos Ocupados= 116
+abr 22, 2024 10:47:51 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 11
+Reservas confirmadas= 2
+Reservas Canceladas= 35
+Reservas Aprobadas= 104
+Asientos Ocupados= 117
+abr 22, 2024 10:47:52 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 11
+Reservas confirmadas= 1
+Reservas Canceladas= 36
+Reservas Aprobadas= 106
+Asientos Ocupados= 118
+abr 22, 2024 10:47:52 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 13
+Reservas confirmadas= 1
+Reservas Canceladas= 36
+Reservas Aprobadas= 106
+Asientos Ocupados= 120
+abr 22, 2024 10:47:52 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 12
+Reservas confirmadas= 0
+Reservas Canceladas= 38
+Reservas Aprobadas= 107
+Asientos Ocupados= 119
+abr 22, 2024 10:47:52 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 11
+Reservas confirmadas= 2
+Reservas Canceladas= 38
+Reservas Aprobadas= 107
+Asientos Ocupados= 120
+abr 22, 2024 10:47:52 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 12
+Reservas confirmadas= 2
+Reservas Canceladas= 38
+Reservas Aprobadas= 107
+Asientos Ocupados= 121
+abr 22, 2024 10:47:53 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 12
+Reservas confirmadas= 2
+Reservas Canceladas= 38
+Reservas Aprobadas= 109
+Asientos Ocupados= 123
+abr 22, 2024 10:47:53 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 12
+Reservas confirmadas= 2
+Reservas Canceladas= 38
+Reservas Aprobadas= 111
+Asientos Ocupados= 125
+abr 22, 2024 10:47:53 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 12
+Reservas confirmadas= 2
+Reservas Canceladas= 38
+Reservas Aprobadas= 111
+Asientos Ocupados= 125
+abr 22, 2024 10:47:53 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 12
+Reservas confirmadas= 1
+Reservas Canceladas= 39
+Reservas Aprobadas= 113
+Asientos Ocupados= 126
+abr 22, 2024 10:47:54 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 12
+Reservas confirmadas= 2
+Reservas Canceladas= 39
+Reservas Aprobadas= 114
+Asientos Ocupados= 128
+abr 22, 2024 10:47:54 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 13
+Reservas confirmadas= 2
+Reservas Canceladas= 39
+Reservas Aprobadas= 114
+Asientos Ocupados= 129
+abr 22, 2024 10:47:54 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 12
+Reservas confirmadas= 2
+Reservas Canceladas= 39
+Reservas Aprobadas= 116
+Asientos Ocupados= 130
+abr 22, 2024 10:47:54 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 12
+Reservas confirmadas= 2
+Reservas Canceladas= 39
+Reservas Aprobadas= 118
+Asientos Ocupados= 132
+abr 22, 2024 10:47:54 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 11
+Reservas confirmadas= 2
+Reservas Canceladas= 39
+Reservas Aprobadas= 120
+Asientos Ocupados= 133
+abr 22, 2024 10:47:55 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 13
+Reservas confirmadas= 2
+Reservas Canceladas= 39
+Reservas Aprobadas= 120
+Asientos Ocupados= 135
+abr 22, 2024 10:47:55 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 12
+Reservas confirmadas= 1
+Reservas Canceladas= 40
+Reservas Aprobadas= 122
+Asientos Ocupados= 135
+abr 22, 2024 10:47:55 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 11
+Reservas confirmadas= 2
+Reservas Canceladas= 40
+Reservas Aprobadas= 123
+Asientos Ocupados= 136
+abr 22, 2024 10:47:55 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 13
+Reservas confirmadas= 1
+Reservas Canceladas= 41
+Reservas Aprobadas= 123
+Asientos Ocupados= 137
+abr 22, 2024 10:47:55 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 13
+Reservas confirmadas= 2
+Reservas Canceladas= 41
+Reservas Aprobadas= 124
+Asientos Ocupados= 139
+abr 22, 2024 10:47:56 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 12
+Reservas confirmadas= 2
+Reservas Canceladas= 41
+Reservas Aprobadas= 126
+Asientos Ocupados= 140
+abr 22, 2024 10:47:56 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 13
+Reservas confirmadas= 2
+Reservas Canceladas= 41
+Reservas Aprobadas= 126
+Asientos Ocupados= 141
+abr 22, 2024 10:47:56 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 13
+Reservas confirmadas= 2
+Reservas Canceladas= 41
+Reservas Aprobadas= 128
+Asientos Ocupados= 143
+abr 22, 2024 10:47:56 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 12
+Reservas confirmadas= 1
+Reservas Canceladas= 42
+Reservas Aprobadas= 130
+Asientos Ocupados= 143
+abr 22, 2024 10:47:56 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 13
+Reservas confirmadas= 1
+Reservas Canceladas= 42
+Reservas Aprobadas= 130
+Asientos Ocupados= 144
+abr 22, 2024 10:47:57 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 11
+Reservas confirmadas= 1
+Reservas Canceladas= 43
+Reservas Aprobadas= 131
+Asientos Ocupados= 143
+abr 22, 2024 10:47:57 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 9
+Reservas confirmadas= 2
+Reservas Canceladas= 43
+Reservas Aprobadas= 132
+Asientos Ocupados= 143
+abr 22, 2024 10:47:57 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 9
+Reservas confirmadas= 2
+Reservas Canceladas= 43
+Reservas Aprobadas= 132
+Asientos Ocupados= 143
+abr 22, 2024 10:47:57 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 7
+Reservas confirmadas= 2
+Reservas Canceladas= 43
+Reservas Aprobadas= 134
+Asientos Ocupados= 143
+abr 22, 2024 10:47:57 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 5
+Reservas confirmadas= 0
+Reservas Canceladas= 45
+Reservas Aprobadas= 136
+Asientos Ocupados= 141
+abr 22, 2024 10:47:58 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 5
+Reservas confirmadas= 0
+Reservas Canceladas= 45
+Reservas Aprobadas= 136
+Asientos Ocupados= 141
+abr 22, 2024 10:47:58 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 3
+Reservas confirmadas= 1
+Reservas Canceladas= 46
+Reservas Aprobadas= 136
+Asientos Ocupados= 140
+abr 22, 2024 10:47:58 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 1
+Reservas confirmadas= 2
+Reservas Canceladas= 46
+Reservas Aprobadas= 137
+Asientos Ocupados= 140
+abr 22, 2024 10:47:58 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 1
+Reservas confirmadas= 2
+Reservas Canceladas= 46
+Reservas Aprobadas= 137
+Asientos Ocupados= 140
+abr 22, 2024 10:47:58 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 0
+Reservas confirmadas= 1
+Reservas Canceladas= 46
+Reservas Aprobadas= 139
+Asientos Ocupados= 140
+abr 22, 2024 10:47:59 P. M. Verificar run
+INFO: funcionamiento sin problemas
+abr 22, 2024 10:47:59 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 0
+Reservas confirmadas= 0
+Reservas Canceladas= 46
+Reservas Aprobadas= 140
+Asientos Ocupados= 140
+abr 22, 2024 10:47:59 P. M. Log run
+INFO: 
+Reservas Pendientes de pago= 0
+Reservas confirmadas= 0
+Reservas Canceladas= 46
+Reservas Aprobadas= 140
+Asientos Ocupados= 140
+Tiempo de ejecucion= 29 segundos con 249 millisegundos
+abr 22, 2024 10:47:59 P. M. Main main
+INFO: 
+Estado de hilo1: TERMINATED
+Estado de hilo2: TERMINATED
+Estado de hilo3: TERMINATED
+Estado de hilo4: TERMINATED
+Estado de hilo5: TERMINATED
+Estado de hilo6: TERMINATED
+Estado de hilo7: TERMINATED
+Estado de hilo8: TERMINATED
+Estado de hilo9: TERMINATED
+Estado de hilo10: TERMINATED
